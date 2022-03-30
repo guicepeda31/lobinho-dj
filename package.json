@@ -89,7 +89,7 @@
     "spotify-uri": "^2.2.0",
     "spotify-web-api-node": "^5.0.2",
     "sqlite3": "^5.0.2",
-    "youtube.ts": "^0.2.0",
+    "youtube.ts": "^0.2.6",
     "ytdl-core": "^4.9.1"
   }
 }
